@@ -1,0 +1,71 @@
+{
+  "last_log_path": "C:\\000 - Python Projects\\000 - Dark_Matter_Projects\\CombatLogs\\combat_2026-04-27_22_11_23_897693.txt",
+  "live_window_pos": [
+    230,
+    945
+  ],
+  "live_threat_window_pos": [
+    399,
+    735
+  ],
+  "live_threat_window_snapped": true,
+  "live_threat_window_snap_side": "right",
+  "live_show_npcs": false,
+  "last_save_dir": "C:\\Users\\ruthl\\Downloads",
+  "great_hunt_enabled": false,
+  "window_state.great_hunt_entries": {
+    "x": 763,
+    "y": 181,
+    "width": 1504,
+    "height": 949
+  },
+  "window_state.great_hunt_entry_editor": {
+    "x": 2938,
+    "y": 292,
+    "width": 640,
+    "height": 720
+  },
+  "window_state.main_window": {
+    "x": 262,
+    "y": 297,
+    "width": 2205,
+    "height": 907
+  },
+  "app_icon_path": "C:\\000 - Python Projects\\000 - Dark_Matter_Projects\\111 - Yoda\\assets\\app_icon.ico",
+  "encounter_show_boss": true,
+  "encounter_show_trash": true,
+  "live_show_companions": false,
+  "encounter_duration_filter": "All Fights",
+  "tab_order": [
+    "dashboard",
+    "inspector",
+    "find_fight",
+    "live_combat_stream",
+    "overview",
+    "abilities",
+    "mob_contributions",
+    "raw_log",
+    "rotation",
+    "compare",
+    "cohort_compare",
+    "dps_training",
+    "tank_training",
+    "healer_training"
+  ],
+  "toolbar_order": [
+    "live_tracker",
+    "battle_window",
+    "open_log",
+    "threat_board",
+    "import_menu",
+    "library_menu",
+    "dev_menu"
+  ],
+  "live_metric": "rolling",
+  "user_settings": {
+    "live_log_dir": "C:/000 - Python Projects/000 - Dark_Matter_Projects/CombatLogs",
+    "history_log_dir": "C:/000 - Python Projects/Human/CombatLogs",
+    "log_retention_months": 3,
+    "server": "Star Forge"
+  }
+}
